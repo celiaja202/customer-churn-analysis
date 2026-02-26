@@ -23,3 +23,5 @@ Google Sheets (Pivot Tables, Statistical Analysis, Data Visualization)
 - Descriptive statistics and pivot table analysis
 - Segment-based churn rate comparison
 - Comparative mean analysis for pricing sensitivity
+
+## Next Steps**: logistic regression modelling planned
